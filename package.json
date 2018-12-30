@@ -1,0 +1,22 @@
+{
+  "name": "website",
+  "title": "Arctic Frost Gaming",
+  "version": "0.0.0",
+  "description": "The official Arctic Frost Gaming website",
+  "author": {
+    "name": "Arctic Frost Gaming",
+    "email": "development@arcticfrostgaming.com",
+    "url": "https://arcticfrostgaming.com"
+  },
+  "homepage": "https://arcticfrostgaming.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcticfrostgaming/website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arcticfrostgaming/website/issues"
+  },
+  "private": true,
+  "license": "MIT",
+  "keywords": ["arcticfrostgaming", "website", "games", "gaming", "documentation", "react"]
+}
